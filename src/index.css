@@ -1,0 +1,51 @@
+body{
+  font-family: Arial;
+  margin: 0;
+
+}
+.header{
+  padding-top:1px;
+  padding-bottom: 1.5%;
+  text-align: center;
+}
+ul{
+  list-style-type: none;
+  margin-bottom: 0px;
+
+}
+li{
+  font-weight: bold;
+  font-size: 25px;
+  display: inline;
+  padding-left: 100px;
+  cursor: pointer;
+}
+
+table,th,td{
+  margin: 3% auto;
+  border: 2px solid;
+  border-collapse: collapse;
+  padding: 10px;
+}
+.form{
+  margin-top: 5%;
+  text-align: center;
+  padding-bottom: 1.5%;
+}
+.form h2{
+  padding-bottom: 15px;
+}
+.form1{
+  padding-bottom: 2%;
+}
+label{
+  font-weight: bold;
+}
+
+.footer{
+  font-weight: bold;
+  background-color:rgb(219, 219, 255);
+  padding-top: 2%;
+  padding-bottom: 1%;
+  text-align: center;
+}

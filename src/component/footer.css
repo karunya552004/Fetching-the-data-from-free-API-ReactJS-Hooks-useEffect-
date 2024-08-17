@@ -1,0 +1,8 @@
+.foot{
+    display: inline;
+    background-color: brown;
+   position: absolute;
+   top:580px;
+   width: 100%;
+   text-align: center;
+}
